@@ -3,3 +3,6 @@ This line is from stable version
 this line is from stable version
 this line is from stable version
 
+this is line from branch 
+this is line from branch
+this is line from branch
